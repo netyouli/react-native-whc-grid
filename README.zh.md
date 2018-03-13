@@ -26,7 +26,7 @@
 ## Demo  
 * [Example](https://github.com/netyouli/react-native-whc-grid/tree/master/example)
 
-![Screenshots](https://raw.githubusercontent.com/netyouli/react-native-whc-grid/master/example/screenshots/react-native-whc-grid.jpg)
+![image](https://raw.githubusercontent.com/netyouli/react-native-whc-grid/master/example/screenshots/react-native-whc-grid.jpg)
 
 ## 如何使用？  
 
