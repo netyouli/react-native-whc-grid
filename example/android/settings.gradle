@@ -1,0 +1,3 @@
+rootProject.name = 'whcgrid'
+
+include ':app'
