@@ -51,21 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="507">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="117" />
+              <caret line="27" column="135" lean-forward="false" selection-start-line="27" selection-start-column="135" selection-end-line="27" selection-end-column="135" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.zh.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.zh.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.zh.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
-              <caret line="28" column="117" lean-forward="false" selection-start-line="28" selection-start-column="117" selection-end-line="28" selection-end-column="117" />
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="135" />
               <folding />
             </state>
           </provider>
@@ -162,8 +162,8 @@
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/example/package.json" />
         <option value="$PROJECT_DIR$/example/App.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README.zh.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -281,12 +281,12 @@
       <workItem from="1517982689922" duration="6382000" />
       <workItem from="1518146937319" duration="1002000" />
       <workItem from="1520228579425" duration="10016000" />
-      <workItem from="1520916244216" duration="7758000" />
+      <workItem from="1520916244216" duration="7835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30957000" />
+    <option name="totallyTimeSpent" value="31034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="79" y="23" width="1361" height="877" extended-state="6" />
@@ -682,18 +682,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/README.zh.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="117" />
+        <state relative-caret-position="295">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="135" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.zh.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="28" column="117" lean-forward="false" selection-start-line="28" selection-start-column="117" selection-end-line="28" selection-end-column="117" />
+        <state relative-caret-position="507">
+          <caret line="27" column="135" lean-forward="false" selection-start-line="27" selection-start-column="135" selection-end-line="27" selection-end-column="135" />
           <folding />
         </state>
       </provider>
