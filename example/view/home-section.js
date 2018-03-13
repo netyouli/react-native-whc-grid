@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
     title: {
         marginLeft: 10,
         flexGrow: 1,
-        color: color.black,
+        color: color.theme,
         fontSize: 14,
     }
 });
