@@ -2,60 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea1d1a3c-447e-4ec3-9c2b-9da2585058e2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/constant/color.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/constant/screen.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/home-normal-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/home-selected-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/long-contract-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/my-normal-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/nav-back-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/order-room-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/rent-control-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/rent-control-normal-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/rent-custom-order-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/report-froms-normal-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/service-order-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/image/water-elc-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/view/home-grid-item.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/view/home-section.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/view/home-wait-grid-item.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example/view/line.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/README.zh.md" afterPath="$PROJECT_DIR$/README.zh.md" />
-      <change beforePath="$PROJECT_DIR$/example/.flowconfig" afterPath="$PROJECT_DIR$/example/.flowconfig" />
-      <change beforePath="$PROJECT_DIR$/example/App.js" afterPath="$PROJECT_DIR$/example/App.js" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/BUCK" afterPath="$PROJECT_DIR$/example/android/app/BUCK" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" afterPath="$PROJECT_DIR$/example/android/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/com/whcbanner/MainActivity.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/com/whcbanner/MainApplication.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/example/android/settings.gradle" afterPath="$PROJECT_DIR$/example/android/settings.gradle" />
-      <change beforePath="$PROJECT_DIR$/example/app.json" afterPath="$PROJECT_DIR$/example/app.json" />
-      <change beforePath="$PROJECT_DIR$/example/images/banner1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/images/banner2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/images/banner3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/index.js" afterPath="$PROJECT_DIR$/example/index.js" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner-tvOS/Info.plist" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner-tvOSTests/Info.plist" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner.xcodeproj/project.pbxproj" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner.xcodeproj/xcshareddata/xcschemes/whcbanner-tvOS.xcscheme" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner.xcodeproj/xcshareddata/xcschemes/whcbanner.xcscheme" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner/AppDelegate.h" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner/AppDelegate.m" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner/Base.lproj/LaunchScreen.xib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner/Images.xcassets/Contents.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner/Info.plist" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbanner/main.m" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbannerTests/Info.plist" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/ios/whcbannerTests/whcbannerTests.m" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/package.json" afterPath="$PROJECT_DIR$/example/package.json" />
-      <change beforePath="$PROJECT_DIR$/example/screenshots/react-native-whc-banner.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/yarn.lock" afterPath="$PROJECT_DIR$/example/yarn.lock" />
-      <change beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/example/screenshots/react-native-whc-gird.png" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -94,16 +43,6 @@
         </entry>
       </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
@@ -113,11 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="68" />
+            <state relative-caret-position="507">
+              <caret line="27" column="132" lean-forward="false" selection-start-line="27" selection-start-column="132" selection-end-line="27" selection-end-column="132" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.zh.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.zh.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="28" column="132" lean-forward="false" selection-start-line="28" selection-start-column="132" selection-end-line="28" selection-end-column="132" />
               <folding />
             </state>
           </provider>
@@ -159,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/example/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="415">
-              <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+              <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#89#130#0" expanded="true" />
@@ -208,14 +157,14 @@
         <option value="$PROJECT_DIR$/example/view/home-grid-item.js" />
         <option value="$PROJECT_DIR$/example/view/home-wait-grid-item.js" />
         <option value="$PROJECT_DIR$/example/view/whc-line.js" />
-        <option value="$PROJECT_DIR$/README.zh.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/example/grid.js" />
         <option value="$PROJECT_DIR$/example/view/home-section.js" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/example/package.json" />
         <option value="$PROJECT_DIR$/example/App.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README.zh.md" />
       </list>
     </option>
   </component>
@@ -333,12 +282,12 @@
       <workItem from="1517982689922" duration="6382000" />
       <workItem from="1518146937319" duration="1002000" />
       <workItem from="1520228579425" duration="10016000" />
-      <workItem from="1520916244216" duration="7156000" />
+      <workItem from="1520916244216" duration="7534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30355000" />
+    <option name="totallyTimeSpent" value="30733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="79" y="23" width="1361" height="877" extended-state="6" />
@@ -643,14 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.zh.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="591">
@@ -734,7 +675,7 @@
     <entry file="file://$PROJECT_DIR$/example/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
-          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#89#130#0" expanded="true" />
@@ -744,8 +685,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="68" />
+        <state relative-caret-position="507">
+          <caret line="27" column="132" lean-forward="false" selection-start-line="27" selection-start-column="132" selection-end-line="27" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.zh.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="28" column="132" lean-forward="false" selection-start-line="28" selection-start-column="132" selection-end-line="28" selection-end-column="132" />
           <folding />
         </state>
       </provider>
