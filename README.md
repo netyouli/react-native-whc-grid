@@ -25,7 +25,7 @@ A react native module to show grid view, it works on iOS and Android.
 ## Demo  
 * [Example](https://github.com/netyouli/react-native-whc-grid/tree/master/example)
 
-![image](https://raw.githubusercontent.com/netyouli/react-native-whc-grid/master/example/screenshots/react-native-whc-grid.jpg)
+![image](https://github.com/netyouli/react-native-whc-grid/blob/master/example/screenshots/react-native-whc-gird.jpg)
 
 ## Getting started  
 
